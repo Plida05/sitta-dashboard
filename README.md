@@ -1,30 +1,80 @@
-# Tugas 1 Pemrograman Berbasis Web - Dashboard Sitta
+# 📊 SITTA Dashboard
 
-Ini adalah proyek untuk Tugas 1 mata kuliah Pemrograman Berbasis Web (PBW).
+A simple web dashboard developed using **HTML, CSS, and JavaScript** to display learning material inventory and delivery tracking information.
 
-Proyek ini adalah sebuah aplikasi web statis sederhana yang berfungsi sebagai dashboard untuk memantau data, stok barang, dan pelacakan.
-
-## Fitur Utama
-
-Aplikasi ini memiliki beberapa halaman utama:
-* **`dashboard.html`**: Halaman utama yang menampilkan ringkasan data.
-* **`stok.html`**: Halaman untuk melihat dan mengelola data stok barang.
-* **`tracking.html`**: Halaman untuk melacak status pengiriman atau data lainnya.
-* **`index.html`**: Halaman landing atau login.
-
-## Teknologi yang Digunakan
-
-* **HTML5**
-* **CSS3**
-* **JavaScript** (Vanilla)
-
-## Cara Menjalankan
-
-1.  Clone repository ini: `git clone https://github.com/Plida05/TUGAS-1-SITTA-PBW.git`
-2.  Buka folder project.
-3.  Buka salah satu file `.html` (misalnya `index.html` atau `dashboard.html`) di browser favoritmu.
+This project was created to practice the fundamentals of web development, including page layout, navigation, and responsive interface design.
 
 ---
-**Dibuat oleh:**
-* **Nama:** Rr. Nabila Fatharani Yuwvrida
-* **NIM/NPM:** 050170901
+
+## 📸 Preview
+
+> Screenshot coming soon.
+
+---
+
+## ✨ Features
+
+* 📈 Dashboard overview
+* 📦 Inventory page
+* 🚚 Delivery tracking page
+* 🏠 Landing page
+* Responsive web layout
+* Simple navigation between pages
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose             |
+| ---------- | ------------------- |
+| HTML5      | Page Structure      |
+| CSS3       | Styling             |
+| JavaScript | Basic Interactivity |
+
+---
+
+## 📂 Project Structure
+
+```text
+sitta-dashboard/
+│
+├── index.html
+├── dashboard.html
+├── stok.html
+├── tracking.html
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository.
+
+```bash
+git clone https://github.com/Plida05/TUGAS-1-SITTA-PBW.git
+```
+
+Open the project folder and launch `index.html` using your preferred web browser.
+
+No additional dependencies or installation are required.
+
+---
+
+## 🎯 Learning Objectives
+
+This project was developed to practice:
+
+* HTML5 Fundamentals
+* CSS3 Layout & Styling
+* JavaScript Basics
+* Multi-Page Website Development
+* Responsive Web Design
+
+---
+
+## 👩‍💻 Author
+
+**Rr Nabila Fatharani Yuwvrida**
+
+Information Systems Student
