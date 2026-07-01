@@ -8,8 +8,21 @@ This project was created to practice the fundamentals of web development, includ
 
 ## 📸 Preview
 
-> Screenshot coming soon.
+### Login Page
 
+![Login](Asset/Login_Page.png)
+
+### Dashboard
+
+![Dashboard](Asset/Dashboard.png)
+
+### Inventory
+
+![Inventory](Asset/Stok.png)
+
+### Tracking
+
+![Tracking](Asset/Tracking.png)
 ---
 
 ## ✨ Features
